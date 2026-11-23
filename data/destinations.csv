@@ -1,0 +1,13 @@
+code,destination,country,lat,lon,default_transfer_cost
+MLA,Malta,Malta,35.8992,14.5141,45
+CFU,Krf,Grčija,39.6243,19.9217,55
+HER,Kreta,Grčija,35.3387,25.1442,60
+PMO,Sicilija (Palermo),Italija,38.1157,13.3615,35
+CAG,Sardinija (Cagliari),Italija,39.2238,9.1217,48
+ALC,Alicante,Španija,38.3452,-0.481,38
+DBV,Dubrovnik,Hrvaška,42.6507,18.0944,40
+ZAD,Zadar,Hrvaška,44.1194,15.2314,25
+SPU,Split,Hrvaška,43.5081,16.4402,30
+BRI,Bari,Italija,41.1171,16.8719,34
+RHO,Rodos,Grčija,36.4341,28.2176,62
+PMI,Majorka,Španija,39.5696,2.6502,50
